@@ -7,7 +7,8 @@ namespace NikolaGit
         static void Main(string[] args)
         {
             Console.WriteLine("пока николай");
-            Console.WriteLine("Привет николай");cw
+            Console.WriteLine("Привет николай");
+            Console.WriteLine("что то еще");
         }
     }
 }
